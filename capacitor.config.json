@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "pm-ionic-bitacora",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

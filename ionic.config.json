@@ -1,0 +1,7 @@
+{
+  "name": "pm-ionic-bitacora",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
